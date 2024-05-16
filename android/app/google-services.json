@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044648067227",
+    "project_id": "ecorecycler-618d3",
+    "storage_bucket": "ecorecycler-618d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044648067227:android:01298397297920ff6a063e",
+        "android_client_info": {
+          "package_name": "com.example.ecorecycler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz6-sUHhSubuu6_cpeCZSqqU1tBY8RDeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
